@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 // imported classes from the shapes directory
-const { Triangle, Square, Circle } =require('./lib/shapes');
+const { Triangle, Circle, Square } = require('./lib/shapes');
 
 // Need a function that prompts user via the CLI to answer questions and then save that input
 
