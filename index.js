@@ -37,5 +37,7 @@ function userInput () {
     ])
 };
 // Need to write function that writes file using answers from the user has entered for all the prompts- 
+
+
 // THEN an SVG file is created named `logo.svg` AND the output text "Generated logo.svg" is printed in the command line
 
