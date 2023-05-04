@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# README Generator
+# SVG Logo Maker
 
 ## Table of Contents
 - [Project Description](#Description)
