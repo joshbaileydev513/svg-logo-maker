@@ -41,3 +41,4 @@ function userInput () {
 
 // THEN an SVG file is created named `logo.svg` AND the output text "Generated logo.svg" is printed in the command line
 
+userInput();
